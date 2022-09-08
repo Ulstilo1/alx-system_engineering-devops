@@ -1,4 +1,1 @@
-great
-hero
-my best
-better
+the content
